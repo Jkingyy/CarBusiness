@@ -1,0 +1,15 @@
+G:\OneDrive\Uni Work\Programming\Assignments\CarBusinessSkeleton\CarBusinessSkeleton\bin\Debug\CarBusinessSkeleton.exe.config
+G:\OneDrive\Uni Work\Programming\Assignments\CarBusinessSkeleton\CarBusinessSkeleton\bin\Debug\CarBusinessSkeleton.exe
+G:\OneDrive\Uni Work\Programming\Assignments\CarBusinessSkeleton\CarBusinessSkeleton\bin\Debug\CarBusinessSkeleton.pdb
+G:\OneDrive\Uni Work\Programming\Assignments\CarBusinessSkeleton\CarBusinessSkeleton\obj\Debug\CarBusinessSkeleton.Customers.resources
+G:\OneDrive\Uni Work\Programming\Assignments\CarBusinessSkeleton\CarBusinessSkeleton\obj\Debug\CarBusinessSkeleton.CustomerVehicleForm.resources
+G:\OneDrive\Uni Work\Programming\Assignments\CarBusinessSkeleton\CarBusinessSkeleton\obj\Debug\CarBusinessSkeleton.Start.resources
+G:\OneDrive\Uni Work\Programming\Assignments\CarBusinessSkeleton\CarBusinessSkeleton\obj\Debug\CarBusinessSkeleton.Locations.resources
+G:\OneDrive\Uni Work\Programming\Assignments\CarBusinessSkeleton\CarBusinessSkeleton\obj\Debug\CarBusinessSkeleton.Properties.Resources.resources
+G:\OneDrive\Uni Work\Programming\Assignments\CarBusinessSkeleton\CarBusinessSkeleton\obj\Debug\CarBusinessSkeleton.VehicleForm.resources
+G:\OneDrive\Uni Work\Programming\Assignments\CarBusinessSkeleton\CarBusinessSkeleton\obj\Debug\CarBusinessSkeleton.VehiclesForm.resources
+G:\OneDrive\Uni Work\Programming\Assignments\CarBusinessSkeleton\CarBusinessSkeleton\obj\Debug\CarBusinessSkeleton.csproj.GenerateResource.cache
+G:\OneDrive\Uni Work\Programming\Assignments\CarBusinessSkeleton\CarBusinessSkeleton\obj\Debug\CarBusinessSkeleton.csproj.CoreCompileInputs.cache
+G:\OneDrive\Uni Work\Programming\Assignments\CarBusinessSkeleton\CarBusinessSkeleton\obj\Debug\CarBusinessSkeleton.exe
+G:\OneDrive\Uni Work\Programming\Assignments\CarBusinessSkeleton\CarBusinessSkeleton\obj\Debug\CarBusinessSkeleton.pdb
+G:\OneDrive\Uni Work\Programming\Assignments\CarBusinessSkeleton\CarBusinessSkeleton\obj\Debug\CarBusinessSkeleton.csprojAssemblyReference.cache
