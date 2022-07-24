@@ -48,9 +48,6 @@ namespace CarBusinessSkeleton
             {
                 locationsList.Items.Add(locations[i]);
             }
-
-
-            //ththththaslkhfalkshdlkashdlkasjhdlkajsdlkjasdoi
         }
 
         // the method called when the svae button is clicked in the vehicles list
